@@ -22,12 +22,13 @@ repository               : "Irevin/Irevin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/04/18/pE4Ft2Q.jpg"
   name             : "Irevin"
   pronouns         : "he" # example: "she/her"  
   bio              : "Gradually understand"
   location         : "Earth"
-  employer         : "Hebei University of Technology(CN) && Massey University(NZ)"
+  employer         : "Hebei University of Technology(CN) &&
+                      Massey University(NZ)"
   uri              : # URL
   email            : "irevinnn@gmail.com" 
 
